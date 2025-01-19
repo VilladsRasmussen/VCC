@@ -1,0 +1,16 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: 'Roboto', sans-serif;
+    background-color: #lightgrey;
+}
+
+header {
+    background-color: lightblue;
+    width: 100%;
+    max-height: 60px;
+}
